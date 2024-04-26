@@ -45,6 +45,9 @@ body {
   background-color: #d8d8d8;
   cursor: not-allowed;
 }
+.out-of-stock-img {
+  opacity: 0.5;
+}
 
 h1 {
   font-size: 50px;
